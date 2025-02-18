@@ -1266,9 +1266,9 @@ dependencies = [
 
 [[package]]
 name = "ic-verify-bls-signature"
-version = "0.5.0"
+version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d420b25c0091059f6c3c23a21427a81915e6e0aca3b79e0d403ed767f286a3b9"
+checksum = "cd6c4261586eb473fe1219de63186a98e554985d5fd6f3488036c8fb82452e27"
 dependencies = [
  "hex",
  "ic_bls12_381",
