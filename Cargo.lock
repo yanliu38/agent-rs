@@ -1270,11 +1270,8 @@ version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cd6c4261586eb473fe1219de63186a98e554985d5fd6f3488036c8fb82452e27"
 dependencies = [
- "hex",
  "ic_bls12_381",
- "lazy_static",
  "pairing",
- "rand",
  "sha2 0.10.8",
 ]
 
